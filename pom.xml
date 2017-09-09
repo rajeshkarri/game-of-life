@@ -175,18 +175,6 @@
             </extension>
         </extensions>
     </build>
-    <distributionManagement>
-        <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
-            <url>http://192.168.111.149:8081/repository/gameoflife-Release/</url>
-        </repository>
-        <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://192.168.111.149:8081/repository/gameoflife-snapshot/</url>
-        </snapshotRepository>
-    </distributionManagement>
     <dependencyManagement>
         <dependencies>
             <dependency>
