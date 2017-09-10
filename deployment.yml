@@ -1,0 +1,4 @@
+- hosts: Appservers
+  roles:
+     - role: /home/jenkins/ansible/roles/deploy_tomcat
+
