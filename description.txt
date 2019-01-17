@@ -1,0 +1,2 @@
+This file for understand devops admins 
+New command to written in this file
