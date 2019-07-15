@@ -2,3 +2,6 @@ this file for without pull the new code
 this change in my local repo for 
 under stand git confult erors
 that means need to remove data`
+<h1> checking for code conflute errors<h1>
+this for New change files 
+this can not be copy to other repo
